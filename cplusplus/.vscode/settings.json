@@ -10,6 +10,13 @@
         "__locale": "cpp",
         "__string": "cpp",
         "string": "cpp",
-        "string_view": "cpp"
+        "string_view": "cpp",
+        "__bit_reference": "cpp",
+        "__split_buffer": "cpp",
+        "bitset": "cpp",
+        "iterator": "cpp",
+        "vector": "cpp",
+        "algorithm": "cpp",
+        "random": "cpp"
     }
 }
